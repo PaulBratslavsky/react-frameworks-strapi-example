@@ -17,3 +17,14 @@ Strapi is a headless CMS that will be used to store the data for the website. It
 It's is highly customizable and build on top of Node.js. 
 
 [Strapi Documentation](https://docs.strapi.io/)
+
+## TODO
+
+- [ ] Setup Strapi SDK
+- [ ] Build Simple Landing Page
+- [ ] Use Dynamic Zone for Content
+- [ ] Add Block Component for Hero Section
+- [ ] Add Block Component for Benefits Section
+- [ ] In Each Framework use the Strapi SDK to fetch the data and render the page
+
+
